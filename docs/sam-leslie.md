@@ -4,3 +4,4 @@
 - From: Virginia
 - Food: Chili
 - Likes: Reading
+- Favorite Color: Blue
